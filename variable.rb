@@ -1,2 +1,7 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+# frozen_string_literal: true
+
+# Define a local variable called 'greeting',
+# give it the value of the string "Hello World"
+
+greeting = 'Hello World'
+greeting = 'Hello World'
